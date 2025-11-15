@@ -74,11 +74,6 @@ Agent: The current time in New York is 2025-02-15 09:12:30 EST-0500
 You: What’s the weather in New York?
 Agent: The weather in New York is sunny with a temperature of 25°C.
 
-🖼️ Screenshots
-🖥️ Terminal Interaction
-<p align="center"> <img src="https://i.imgur.com/V22nIuU.png" width="600"> </p>
-
-(Sample screenshot for GitHub; you can replace with your own.)
 
 🔧 How the Agent Works
 
@@ -168,4 +163,4 @@ Enable Developer Mode or run as Administrator.
 
 📜 License
 
-MIT License © 2025 — Christo
+MIT License © 2025 — Christopherdaniel0930
